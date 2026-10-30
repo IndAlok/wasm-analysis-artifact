@@ -1,0 +1,14 @@
+{"seconds": 13.105, "timeout": false, "aflc": 12255, "maxrss_kb_cum": 199820, "variant": "noindex", "module": "dotnet.wasm", "rep": 1}
+{"seconds": 12.254, "timeout": false, "aflc": 12255, "maxrss_kb_cum": 200036, "variant": "noindex", "module": "dotnet.wasm", "rep": 2}
+{"seconds": 11.939, "timeout": false, "aflc": 12255, "maxrss_kb_cum": 200036, "variant": "noindex", "module": "dotnet.wasm", "rep": 3}
+{"seconds": 4.2, "timeout": false, "aflc": 3732, "maxrss_kb_cum": 200036, "variant": "noindex", "module": "rust-1267866-42c27146", "rep": 1}
+{"seconds": 3.255, "timeout": false, "aflc": 3732, "maxrss_kb_cum": 200036, "variant": "noindex", "module": "rust-1267866-42c27146", "rep": 2}
+{"seconds": 3.47, "timeout": false, "aflc": 3732, "maxrss_kb_cum": 200036, "variant": "noindex", "module": "rust-1267866-42c27146", "rep": 3}
+{"seconds": 600, "timeout": true, "aflc": null, "maxrss_kb_cum": 200036, "variant": "nocall", "module": "dotnet.wasm", "rep": 1}
+{"seconds": 180, "timeout": true, "aflc": null, "maxrss_kb_cum": 200036, "variant": "nocall", "module": "rust-1267866-42c27146", "rep": 1}
+{"seconds": 10.742, "timeout": false, "aflc": 12257, "maxrss_kb_cum": 325088, "variant": "noaav", "module": "dotnet.wasm", "rep": 1}
+{"seconds": 11.736, "timeout": false, "aflc": 12257, "maxrss_kb_cum": 325500, "variant": "noaav", "module": "dotnet.wasm", "rep": 2}
+{"seconds": 9.936, "timeout": false, "aflc": 12257, "maxrss_kb_cum": 325764, "variant": "noaav", "module": "dotnet.wasm", "rep": 3}
+{"seconds": 3.48, "timeout": false, "aflc": 3732, "maxrss_kb_cum": 325764, "variant": "noaav", "module": "rust-1267866-42c27146", "rep": 1}
+{"seconds": 3.461, "timeout": false, "aflc": 3732, "maxrss_kb_cum": 325764, "variant": "noaav", "module": "rust-1267866-42c27146", "rep": 2}
+{"seconds": 3.414, "timeout": false, "aflc": 3732, "maxrss_kb_cum": 325764, "variant": "noaav", "module": "rust-1267866-42c27146", "rep": 3}

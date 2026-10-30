@@ -1,0 +1,3 @@
+{"seconds": 809.068, "timeout": false, "aflc": 46368, "child_maxrss_kb": 1657348, "module": "go-75106654-8673de74", "build": "after", "rep": 1, "note": "extended-timeout rerun"}
+{"seconds": 794.831, "timeout": false, "aflc": 46368, "child_maxrss_kb": 1657348, "module": "go-75106654-8673de74", "build": "after", "rep": 2, "note": "extended-timeout rerun"}
+{"seconds": 794.403, "timeout": false, "aflc": 46368, "child_maxrss_kb": 1657348, "module": "go-75106654-8673de74", "build": "after", "rep": 3, "note": "extended-timeout rerun"}

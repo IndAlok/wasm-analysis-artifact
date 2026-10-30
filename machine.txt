@@ -1,0 +1,7 @@
+Machine: Muse VM, Linux
+CPU: AMD EPYC 9D25, 2 vCPUs
+RAM: 8 GB
+OS: Ubuntu 24.04 (kernel below)
+Linux 7.0.0-39-generic
+rizin 0.10.0 @ linux-x86-64
+rizin 0.10.0 @ linux-x86-64
